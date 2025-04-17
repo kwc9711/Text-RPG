@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text RPG", "Text RPG.csproj", "{DADDF037-3CFE-430B-A87C-7FBB836BFDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADDF037-3CFE-430B-A87C-7FBB836BFDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADDF037-3CFE-430B-A87C-7FBB836BFDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADDF037-3CFE-430B-A87C-7FBB836BFDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADDF037-3CFE-430B-A87C-7FBB836BFDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B9A25A-132F-47A4-B8F7-72526C125D81}
+	EndGlobalSection
+EndGlobal
